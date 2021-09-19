@@ -1,0 +1,61 @@
+{
+  "courses": [
+    {
+      "courseName": "biology",
+      "courseAuthor": "leon",
+      "courseId": "thisisveryrandom",
+      "units": [
+        {
+          "unitId": 1,
+          "modules": [
+            {
+              "ep": 1,
+              "title": "Bio 1",
+              "author": "Leon",
+              "thumbnail": "",
+              "avatar": "",
+              "description": "This is the first biology video",
+              "youtube": true,
+              "link": "https://www.youtube.com/watch?v=AfxxFE3gqAM"
+            },
+            {
+              "ep": 2,
+              "title": "Bio 2",
+              "author": "Kevin",
+              "thumbnail": "",
+              "avatar": "",
+              "description": "Stanford Video",
+              "youtube": true,
+              "link": "https://www.youtube.com/watch?v=HAnw168huqA"
+            },
+            {
+              "ep": 3,
+              "title": "CS 3",
+              "author": "Kevin",
+              "thumbnail": "",
+              "avatar": "",
+              "description": "Python Article",
+              "youtube": false,
+              "link": "https://www.datacamp.com/community/tutorials/python-dictionary-comprehension"
+            }
+          ]
+        },
+        {
+          "unitId": 2,
+          "modules": [
+            {
+              "ep": 1,
+              "title": "UX",
+              "author": "DesignBuddies",
+              "thumbnail": "",
+              "avatar": "",
+              "description": "Yes",
+              "youtube": false,
+              "link": "https://start.uxdesign.cc/design-methods/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
